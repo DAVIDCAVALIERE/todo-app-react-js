@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DAVIDCAVALIERE/todo-app-react-js/static/css/main.bbce1e86.css",
-    "main.js": "/DAVIDCAVALIERE/todo-app-react-js/static/js/main.296c13a8.js",
-    "index.html": "/DAVIDCAVALIERE/todo-app-react-js/index.html",
-    "static/media/delete.svg": "/DAVIDCAVALIERE/todo-app-react-js/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/DAVIDCAVALIERE/todo-app-react-js/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.bbce1e86.css.map": "/DAVIDCAVALIERE/todo-app-react-js/static/css/main.bbce1e86.css.map",
-    "main.296c13a8.js.map": "/DAVIDCAVALIERE/todo-app-react-js/static/js/main.296c13a8.js.map"
+    "main.css": "/todo-app-react-js/static/css/main.bbce1e86.css",
+    "main.js": "/todo-app-react-js/static/js/main.ffd5f5c8.js",
+    "index.html": "/todo-app-react-js/index.html",
+    "static/media/delete.svg": "/todo-app-react-js/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/todo-app-react-js/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bbce1e86.css.map": "/todo-app-react-js/static/css/main.bbce1e86.css.map",
+    "main.ffd5f5c8.js.map": "/todo-app-react-js/static/js/main.ffd5f5c8.js.map"
   },
   "entrypoints": [
     "static/css/main.bbce1e86.css",
-    "static/js/main.296c13a8.js"
+    "static/js/main.ffd5f5c8.js"
   ]
 }
