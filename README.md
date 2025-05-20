@@ -3,6 +3,20 @@
 Link a la app:
 [APP](https://davidcavaliere.github.io/todo-app-react-js/)
 
+Se realiza proyecto con el fin de implementar varios conceptos importantes:
+
+-useState()
+
+-useEffect()
+
+-CustomHooks
+
+-useContext()
+
+Se cuenta con un creador de tareas el cual va agregando estas de manera progresiva en un contenedor.
+
+Se permite marcar tarea como completada, eliminarla y buscar tareas por palabras o frases.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
